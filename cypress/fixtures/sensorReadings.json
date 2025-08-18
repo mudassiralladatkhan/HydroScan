@@ -1,0 +1,32 @@
+[
+  {
+    "id": "reading-1",
+    "device_id": "device-1",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "ph": 7.2,
+    "turbidity": 1.5,
+    "tds": 320,
+    "temperature": 22.5,
+    "contamination_score": 25
+  },
+  {
+    "id": "reading-2",
+    "device_id": "device-1", 
+    "timestamp": "2024-01-15T10:25:00Z",
+    "ph": 7.1,
+    "turbidity": 1.8,
+    "tds": 315,
+    "temperature": 22.3,
+    "contamination_score": 28
+  },
+  {
+    "id": "reading-3",
+    "device_id": "device-2",
+    "timestamp": "2024-01-15T10:20:00Z", 
+    "ph": 6.9,
+    "turbidity": 2.1,
+    "tds": 340,
+    "temperature": 23.1,
+    "contamination_score": 35
+  }
+]

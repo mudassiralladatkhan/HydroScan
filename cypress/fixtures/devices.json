@@ -1,0 +1,26 @@
+[
+  {
+    "id": "device-1",
+    "name": "Water Station Alpha",
+    "serial_number": "WS001",
+    "location": "Main Lab",
+    "status": "online",
+    "organization_id": "org-1",
+    "is_active": true,
+    "battery_level": 85,
+    "last_seen": "2024-01-15T10:30:00Z",
+    "created_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "device-2", 
+    "name": "Water Station Beta",
+    "serial_number": "WS002",
+    "location": "Field Site A",
+    "status": "offline",
+    "organization_id": "org-1",
+    "is_active": true,
+    "battery_level": 45,
+    "last_seen": "2024-01-14T15:20:00Z",
+    "created_at": "2024-01-01T00:00:00Z"
+  }
+]

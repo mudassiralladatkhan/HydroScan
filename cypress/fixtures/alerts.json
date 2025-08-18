@@ -1,0 +1,23 @@
+[
+  {
+    "id": "alert-1",
+    "device_id": "device-1",
+    "rule_id": "rule-1",
+    "severity": "high",
+    "message": "pH level out of normal range: 8.7",
+    "triggered_at": "2024-01-15T10:30:00Z",
+    "resolved": false,
+    "status": "active"
+  },
+  {
+    "id": "alert-2",
+    "device_id": "device-2",
+    "rule_id": "rule-2", 
+    "severity": "medium",
+    "message": "Turbidity elevated: 3.2 NTU",
+    "triggered_at": "2024-01-15T09:15:00Z",
+    "resolved": true,
+    "resolved_at": "2024-01-15T10:00:00Z",
+    "status": "resolved"
+  }
+]

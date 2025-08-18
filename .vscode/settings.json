@@ -1,0 +1,35 @@
+{
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "deno.enablePaths": [
+    "supabase/functions"
+  ],
+  "deno.lint": true,
+  "deno.unstable": [
+    "bare-node-builtins",
+    "byonm",
+    "sloppy-imports",
+    "unsafe-proto",
+    "webgpu",
+    "broadcast-channel",
+    "worker-options",
+    "cron",
+    "kv",
+    "ffi",
+    "fs",
+    "http",
+    "net"
+  ],
+  "mcpServers": {
+    "TestSprite": {
+      "command": "npx",
+      "args": [
+        "@testsprite/testsprite-mcp@latest"
+      ],
+      "env": {
+        "API_KEY": "sk-user-On2_c-6lLiJO-q9b_yB9U3inMdlcZDzkyA8YOUUdxeTWQhV5efazsesO-yNokKSkRCulmmSgCTc5CIMr9hPfcyncF2drtUCRL-xE5GU2Dtce_r286XSAVHktG6O9SvkfrR0"
+      }
+    }
+  }
+}
